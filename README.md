@@ -1,5 +1,7 @@
 # Interview Scheduler API
 
+This API is required by the Interview Scheduler (https://github.com/rosanna-z/scheduler) for it to run locally.
+
 ## Setup
 
 Install dependencies with `npm install`.
